@@ -32,7 +32,7 @@
     "fs-vacuum": "^1.2.10",
     "graceful-fs": "^4.1.11",
     "iferr": "^0.1.5",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "path-is-inside": "^1.0.2",
     "read-cmd-shim": "^1.0.1",
     "slide": "^1.1.6"
